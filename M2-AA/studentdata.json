@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Trilok Navya",
+    "birthYear": 2002,
+    "course": "IFT 554",
+    "grade": 100,
+    "active": true
+  },
+  {
+    "name": "Uma",
+    "birthYear": 2000,
+    "course": "IFT 554",
+    "grade": 99,
+    "active": true
+  }
+]
